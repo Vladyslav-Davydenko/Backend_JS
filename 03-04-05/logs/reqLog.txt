@@ -1,0 +1,2 @@
+20231105	17:31:10	718ae7f6-2433-4ae4-b1ad-addb0b1f03dc	/	GET
+20231105	17:31:10	3257e352-31ed-4667-bfcd-c5223c96cb8d	/css/style.css	GET
